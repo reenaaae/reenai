@@ -1,0 +1,31 @@
+<style>
+div {
+font-family: arial;
+background-color: pink;
+color:white;
+text-decoration:line;
+}
+
+.span1 {
+color: blue;
+}
+.span2 { 
+color:green;
+}
+.span3 {
+ color:orange;
+}
+.span4 {
+ color:purple;
+}
+.span5 {
+color:red;
+}
+.span6 {
+color:brown;
+}
+.span7 {
+color:teal;
+}
+
+</style>
