@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Stephanie's CSS</title>
+
+<link rel= "stylesheet" href="style.css">
+
+</head>
+<body>
+
+
+
+<h1 style="color: sienna;"><i>Stephanie Nicolas</i></h1>
+<div>These book features four applictaions namely <span class="class1"> MS Word,</span> MS Excel <span class="class2"> MS Powerpoint</span> and <span class="class3">MS Outlook.</span> it aims to develop the core appliance of computer technology such as PC operation, word processing, spreadsheets, presentations and organizations of schedules and contacts</div>
+
+</body>
+</html>
+
+
